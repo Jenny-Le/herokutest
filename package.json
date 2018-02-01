@@ -1,0 +1,20 @@
+{
+  "name": "starwars",
+  "version": "1.0.0",
+  "description": "helps you find the characters you are looking for",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jenny-Le/herokutest.git"
+  },
+  "author": "jenny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jenny-Le/herokutest/issues"
+  },
+  "homepage": "https://github.com/Jenny-Le/herokutest#readme"
+}
